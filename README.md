@@ -51,7 +51,8 @@ The following screenshots are captured directly from the running workstation usi
 > **"Pulmonary Nodule Risk Assessment:** AI that detects and segments lung nodules in 3D CT scans, measures morphology and density, and estimates malignancy risk."
 
 PulmoScan AI addresses this by providing an integrated, radiology workflow-oriented workstation experience that mirrors the complete clinical imaging workflow:
-$$\text{CT / DICOM} \longrightarrow \text{3D Preprocessing} \longrightarrow \text{Detection} \longrightarrow \text{Segmentation} \longrightarrow \text{Morphology \& Density} \longrightarrow \text{Risk Assessment} \longrightarrow \text{Temporal Growth} \longrightarrow \text{Radiology Report}$$
+
+`CT / DICOM` ➔ `3D Preprocessing` ➔ `Detection` ➔ `Segmentation` ➔ `Morphology & Density` ➔ `Risk Assessment` ➔ `Temporal Growth` ➔ `Radiology Report`
 
 ---
 
